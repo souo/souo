@@ -17,7 +17,6 @@
   <h3> 💻 Languages and Tools  I Use</h3>
   <p>
     <img src="https://img.shields.io/badge/python%20-222222.svg?&style=for-the-badge&logo=python&logoColor=14354C"/>
-    <img src="https://img.shields.io/badge/c%23%20-222222.svg?&style=for-the-badge&logo=csharp&logoColor=2AAFC7"/>
     <img src="https://img.shields.io/badge/c%20-222222.svg?&style=for-the-badge&logo=c&logoColor=00599C"/>
     <img src="https://img.shields.io/badge/java%20-222222.svg?&style=for-the-badge"/>
     <img src="https://img.shields.io/badge/scala%20-222222.svg?&style=for-the-badge&logo=scala&logoColor=DC322F"/>
